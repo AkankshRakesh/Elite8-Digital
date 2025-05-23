@@ -1,6 +1,6 @@
 # Elite8 Digital Portfolio – Akanksh Rakesh
 
-Welcome to **Elite8 Digital**, a modern, responsive developer portfolio built using **Next.js** and **Tailwind CSS**. This project showcases the work, skills, and experiences of Akanksh Rakesh in an elegant and performance-optimized web application.
+Welcome to a modern, responsive developer portfolio built using **Next.js** and **Tailwind CSS**. This project showcases the work, skills, and experiences of Akanksh Rakesh in an elegant and performance-optimized web application.
 
 ---
 
